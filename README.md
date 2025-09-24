@@ -34,4 +34,8 @@ We are:
 - Preparing documentation and developer guides.
 - Working toward a **public open-source release**.
 
-Follow our progress here and check back soon for updates!
+## Stay Updated
+
+Subscribe to receive updates about OLPN's progress, new releases, and opportunities to get involved:
+
+[**Subscribe for Updates →**](https://docs.olpn.org/#/portal/)
