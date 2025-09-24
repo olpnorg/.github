@@ -11,9 +11,10 @@ Our mission is to connect **verified lawyers, firms, and organizations** to the 
 
 | Project | Description |
 |----------|-------------|
-| [OLPN ID](https://github.com/olpn/olpn-id) | WordPress plugin to turn any site into an **identity hub** or **credentialing organization**. Best for law firms, bar associations, and legal networks. |
-| [OLPN Clusters](https://github.com/olpn/olpn-clusters) | WordPress plugin for **structured content**, internal linking, and optimized URL design for SEO and **Generative Engine Optimization (GEO)**. |
-| [OLPN Resolver](https://github.com/olpn/olpn-resolver) | **Go-based verification service** hosted at [olpn.org](https://olpn.org). It validates identities, credentials, and content relationships, returning trusted JSON-LD data. |
+| OLPN ID | WordPress plugin to turn any site into an **identity hub** or **credentialing organization**. Best for law firms, bar associations, and legal networks. |
+| OLPN Clusters | WordPress plugin for **structured content**, internal linking, and optimized URL design for SEO and **Generative Engine Optimization (GEO)**. |
+| OLPN Resolver | **Go-based verification service** hosted at olpn.org. It validates identities, credentials, and content relationships, returning trusted JSON-LD data. |
+
 
 ---
 
