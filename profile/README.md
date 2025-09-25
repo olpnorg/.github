@@ -1,6 +1,7 @@
 # Open Legal Publishing Network (OLPN)
 
-The **Open Legal Publishing Network (OLPN)** is building tools for **decentralized identity and legal publishing**.  
+The **Open Legal Publishing Network (OLPN)** is building tools for **decentralized identity and legal publishing**.
+
 Our mission is to connect **verified lawyers, firms, and organizations** to the content they create, forming a **legal graph** that is portable, trustworthy, and machine-readable.
 
 > **Note:** OLPN is currently in early development. The codebase will be **open-sourced soon** once it reaches stability.
